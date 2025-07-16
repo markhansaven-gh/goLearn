@@ -15,4 +15,10 @@ func main() {
 	var isTrue bool = false
 	println(isTrue)
 
+	// Array and for loop
+	var arr = []string{"hi", "there", "how", "are", "you", "doing", "today?"}
+	for x := 0; x < len(arr); x++ {
+		println(arr[x])
+	}
+
 }
