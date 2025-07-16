@@ -11,6 +11,8 @@ func main() {
 	var myStr string = "Hihihi!"
 	println(myStr)
 
-	//
+	// Bool
+	var isTrue bool = false
+	println(isTrue)
 
 }
